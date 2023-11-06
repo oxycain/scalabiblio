@@ -1,7 +1,7 @@
 import scala.io.StdIn
 import scala.util.{Failure, Success}
 
-object Main extends App {
+object main extends App {
 
   val biblio = new Bibliotheque()
 
